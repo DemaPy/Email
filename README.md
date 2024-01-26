@@ -1,16 +1,4 @@
-<!DOCTYPE html>
-<html lang="en">
-  <head>
-    <meta charset="UTF-8" />
-    <meta http-equiv="X-UA-Compatible" content="IE=edge" />
-    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
-    <link rel="preconnect" href="https://fonts.googleapis.com" />
-    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin />
-    <link
-      href="https://fonts.googleapis.com/css2?family=Poppins:wght@300;400;500;600&display=swap"
-      rel="stylesheet"
-    />
-    <title>Document</title>
+
     <style>
       .about_description_avatar {
         display: none;
@@ -46,9 +34,6 @@
         }
       }
     </style>
-  </head>
-
-  <body>
     <center>
       <!-- Top image -->
       <table
@@ -684,10 +669,7 @@
           </tr>
         </tbody>
       </table>
-      <!-- Explore latest work -->
-    </center>
-  </body>
-</html>
+     
 
 ![Demarketplace](https://github.com/DemaPy/Email/assets/80632445/ba6388ec-5ca3-489f-a4c7-84ca6c212286)
 ![Dema6](https://github.com/DemaPy/Email/assets/80632445/33cc8471-f364-4434-b421-5656816b78e0)
